@@ -8,6 +8,8 @@ if calificacion < 700 :
 
 elif calificacion > 1000:
     print("Mientes, no puedes sacar más de mil")
+elif calificacion == 700:
+    print("Panzazooooooooooooooo")
 else :
     print("Felicidades, pasa por tu certificado") #Si no se cumple el if anteriro pasa a esta linea
     
